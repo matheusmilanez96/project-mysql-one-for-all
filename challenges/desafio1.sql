@@ -89,13 +89,13 @@ VALUES
   ('BREAK MY SOUL', '1', '279'),
   ('VIRGO\'S GROOVE', '1', '369'),
   ('ALIEN SUPERSTAR', '1', '116'),
-  ('Don\'t Stop Me Now', '2', NULL),
-  ('Under Pressure', '3', NULL),
-  ('Como Nossos Pais', '4', NULL),
-  ('O Medo de Amar é o Medo de Ser Livre', '5', NULL),
-  ('Samba em Paris', '6', NULL),
-  ('The Bard\'s Song', '7', NULL),
-  ('Feeling Good', '8', NULL);
+  ('Don\'t Stop Me Now', '2', '203'),
+  ('Under Pressure', '3', '152'),
+  ('Como Nossos Pais', '4', '105'),
+  ('O Medo de Amar é o Medo de Ser Livre', '5', '207'),
+  ('Samba em Paris', '6', '267'),
+  ('The Bard\'s Song', '7', '244'),
+  ('Feeling Good', '8', '100');
 INSERT INTO SpotifyClone.reproducoes (cancao_id, pessoa_usuaria_id, data_reproducao)
 VALUES
   ('8', '1', '2022-02-28 10:45:55'),
